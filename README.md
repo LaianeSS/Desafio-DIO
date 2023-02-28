@@ -1,4 +1,5 @@
-#Meu primeiro desafio na DIO
+# Meu primeiro desafio na DIO #
+
 Projeto de estudos para concluir o bootcamp.
 
 ## Certificados já alcançados na plataforma:
